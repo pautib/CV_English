@@ -2,5 +2,6 @@
 *.aux
 *.fls
 *.fdb_latexmk
-.synctex*
+*.out
+*.synctex*
 main.pdf
